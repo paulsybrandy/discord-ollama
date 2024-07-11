@@ -1,5 +1,5 @@
 # use node LTS image for version 18
-FROM node:18.18.2
+FROM node:18.20.4
 
 # set working directory inside container
 WORKDIR /app
